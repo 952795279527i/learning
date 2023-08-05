@@ -1,33 +1,25 @@
 <template>
-  <div class="hello">
-    <h1>{{ msg }}</h1>
-    <p>
-      For a guide and recipes on how to configure / customize this project,<br>
-      check out the
-      <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
-    </p>
-    <h3>Installed CLI Plugins</h3>
-    <ul>
-      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-babel" target="_blank" rel="noopener">babel</a></li>
-      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-eslint" target="_blank" rel="noopener">eslint</a></li>
-    </ul>
-    <h3>Essential Links</h3>
-    <ul>
-      <li><a href="https://vuejs.org" target="_blank" rel="noopener">Core Docs</a></li>
-      <li><a href="https://forum.vuejs.org" target="_blank" rel="noopener">Forum</a></li>
-      <li><a href="https://chat.vuejs.org" target="_blank" rel="noopener">Community Chat</a></li>
-      <li><a href="https://twitter.com/vuejs" target="_blank" rel="noopener">Twitter</a></li>
-      <li><a href="https://news.vuejs.org" target="_blank" rel="noopener">News</a></li>
-    </ul>
-    <h3>Ecosystem</h3>
-    <ul>
-      <li><a href="https://router.vuejs.org" target="_blank" rel="noopener">vue-router</a></li>
-      <li><a href="https://vuex.vuejs.org" target="_blank" rel="noopener">vuex</a></li>
-      <li><a href="https://github.com/vuejs/vue-devtools#vue-devtools" target="_blank" rel="noopener">vue-devtools</a></li>
-      <li><a href="https://vue-loader.vuejs.org" target="_blank" rel="noopener">vue-loader</a></li>
-      <li><a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener">awesome-vue</a></li>
-    </ul>
-  </div>
+  <div class="thead">
+        <div class="thead_tit">微信图书</div>
+        <div class="search_kuan">
+          <svg
+            t="1691067701455"
+            class="icon icon1"
+            viewBox="0 0 1024 1024"
+            version="1.1"
+            xmlns="http://www.w3.org/2000/svg"
+            p-id="8157"
+            width="30"
+            height="30"
+          >
+            <path
+              d="M889.6 838.4l-192-192C742.4 595.2 768 524.8 768 448c0-179.2-140.8-320-320-320S128 268.8 128 448s140.8 320 320 320c76.8 0 147.2-25.6 198.4-70.4l192 192c12.8 12.8 32 12.8 44.8 0C896 876.8 896 851.2 889.6 838.4zM192 448c0-140.8 115.2-256 256-256s256 115.2 256 256c0 140.8-115.2 256-256 256S192 588.8 192 448z"
+              p-id="8158"
+            ></path>
+          </svg>
+          <input type="text" class="search" placeholder="搜索" />
+        </div>
+      </div>
 </template>
 
 <script>
@@ -40,19 +32,43 @@ export default {
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
-<style scoped>
-h3 {
-  margin: 40px 0 0;
+<style>
+.thead{
+     width: 100%;
+     height: 140px;
+     position: fixed;
+     top: 0;
+     z-index: 99;
+     background-color:#fff;
 }
-ul {
-  list-style-type: none;
-  padding: 0;
+.thead_tit{
+    font-size: 18px;
+     font-weight: bold;
+    height:70px ;
+    line-height: 70px;
+    text-align: center;
 }
-li {
-  display: inline-block;
-  margin: 0 10px;
+.search_kuan{
+    position: relative;
+    width: 375px;
+    height:60px ;
 }
-a {
-  color: #42b983;
+.search{
+    outline: none;
+    border-radius: 15px;
+    background-color: rgb(245, 247, 249);
+    border: none;
+    font-weight: bold;
+    padding-left:45px ;
+    margin: 0  10px;
+    width: 305px;
+    height:40px ;
+}
+.icon1{
+    position: absolute;
+    top: 10px;
+    left:  20px;
+    width: 25px;
+    height: 25px;
 }
 </style>
