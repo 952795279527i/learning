@@ -4,6 +4,7 @@
             <li 
             v-for="(item,index) in booksWithRecommendLabel"
             :key="index"
+            @click="Clickhim(index)"
             >
                <div class="sort_figure">{{ index+1 }}</div> 
                <img :src="item.img">
@@ -52,6 +53,16 @@
         }
         return item;
       });
+    }
+  },
+  methods:{
+    Clickhim(index){
+        if (this.users[index].clicked) {
+            return;
+         }
+
+    this.users[index].browse = parseInt(this.users[index].browse) + 1;
+    this.users[index].clicked = true;
     }
   }
    }

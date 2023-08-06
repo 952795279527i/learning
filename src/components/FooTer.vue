@@ -75,10 +75,10 @@
  </script>
  <style>
 .footer{
-    position: fixed;
-    bottom: 0;
     width: 100%;
     height: 50px;
+   position: sticky;
+    bottom: 0;
     background-color: #fff;
     display: flex;
     align-items:flex-end;

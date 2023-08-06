@@ -194,7 +194,7 @@
       .soaring_more2{
         width: 90%;
         height: 50px;
-        margin: 0 auto 50px;
+        margin: 0 auto;
         border-radius: 20px;
         text-align: center;
         line-height: 50px;
@@ -212,10 +212,10 @@
         width: 100%;
       }
       .ranking li{
-        width: 100%;
+        width: 95%;
         height: 80px;
         list-style: none;
-        margin: 10px 0 0 20px;
+        margin: 10px 0 0 18px;
       }
       .ranking li img{
         width: 60px;

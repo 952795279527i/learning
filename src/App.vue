@@ -113,10 +113,15 @@ html{
 }
 .theme{
  width: 100%;
+
 }
 .theme_vue{
  width: 100%;
  height: 50px;
+ position: sticky;
+ top: 140px;
+ background-color: #fff;
+ z-index: 100;
 }
 .theme_vue ul {
  width: 100%;

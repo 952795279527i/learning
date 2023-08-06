@@ -36,7 +36,7 @@ export default {
 .thead{
      width: 100%;
      height: 140px;
-     position: fixed;
+     position: sticky;
      top: 0;
      z-index: 99;
      background-color:#fff;
