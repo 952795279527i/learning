@@ -1,6 +1,6 @@
 <template>
           <div class="footer">
-        <div class="foter_option">
+        <div class="foter_option" @click="fun(1)">
           <div class="foter_option-icon">
             <svg
               t="1691130432259"
@@ -21,7 +21,7 @@
           </div>
           <div>福利</div>
         </div>
-        <div class="foter_option">
+        <div class="foter_option" @click="fun(2)">
           <div class="foter_option-icon">
             <svg
               t="1691130583529"
@@ -42,7 +42,7 @@
           </div>
           <div>书城</div>
         </div>
-        <div class="foter_option">
+        <div class="foter_option" @click="fun(3)">
           <div class="foter_option-icon">
             <svg
               t="1691130688786"
@@ -76,6 +76,11 @@
       
     };
    },
+   methods:{
+    fun(eer){
+      console.log(eer);
+    }
+   }
  }
  </script>
  <style>
