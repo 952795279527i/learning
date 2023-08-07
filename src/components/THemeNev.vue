@@ -75,9 +75,6 @@
  color: rgb(133, 140, 150);
  font-family:"新宋体";
 }
-.theme_vue ul li:nth-child(1){
- color: rgb(27, 136, 238);
-}
 .theme_con{
  width: 375px;
 }
