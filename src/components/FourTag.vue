@@ -42,7 +42,7 @@
         console.log(this.users);
      },
      computed: {
-    booksWithRecommendLabel() {
+      booksWithRecommendLabel() {
       return this.users.map((item) => {
         if (item.tui >= 90) {
           item.recommendLabel = "神作";
