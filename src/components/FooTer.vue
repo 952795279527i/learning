@@ -70,7 +70,12 @@
    name: 'FooTer',
    props: {
      msg: String
-   }
+   },
+   data() {
+    return {
+      
+    };
+   },
  }
  </script>
  <style>

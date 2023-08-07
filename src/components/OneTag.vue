@@ -290,8 +290,5 @@
     color: rgb(130, 136, 145);
     font-size: 14px;
    }
-   .onetag ul li:last-child{
-    margin-bottom: 50px;
-   }
    </style>
    
