@@ -100,13 +100,10 @@ export default {
     fun(num){
       if(num==1){
         this.flag='one'
-        console.log(111);
       }else if(num==2){
         this.flag='two'
-        console.log(222);
       }else if(num==3){
         this.flag='three'
-        console.log(3333);
       }
     }
   }

@@ -1,0 +1,259 @@
+[
+  {
+    "name": "猜你喜欢",
+    "conList": [
+      {
+        "name": "面纱(长姆长篇作品精选)",
+        "zuoze": "毛姆",
+        "teller": "译文有声",
+        "img": "https://wfqqreader-1252317822.image.myqcloud.com/cover/157/38395157/t6_38395157.jpg"
+      },
+      {
+        "name": "月亮和六便士",
+        "zuoze": "毛姆",
+        "teller": "失控剧场",
+        "img": "https://weread-1258476243.file.myqcloud.com/weread/cover/23/YueWen_24223789/t6_YueWen_24223789.jpg"
+      },
+      {
+        "name": "悉达多",
+        "zuoze": "赫尔曼·黑塞",
+        "teller": "旭思文阅",
+        "img": "https://weread-1258476243.file.myqcloud.com/weread/cover/68/YueWen_855327/t6_YueWen_855327.jpg"
+      }
+    ]
+  },
+  {
+    "name": "影视热门榜",
+    "conList": [
+      {
+        "name": "庆余华",
+        "zuoze": "猫腻",
+        "teller": "阅文听书",
+        "ren": 346,
+        "img": "https://wfqqreader-1252317822.image.myqcloud.com/cover/592/462592/t6_462592.jpg"
+      },
+      {
+        "name": "鬼吹灯(盗墓者的经历)",
+        "zuoze": "本物天下霸唱",
+        "teller": "道听途说",
+        "ren": 346,
+        "img": "https://wfqqreader-1252317822.image.myqcloud.com/cover/15/529015/t6_529015.jpg"
+      },
+      {
+        "name": "雪中悍刀行",
+        "zuoze": "烽火戏诸侯",
+        "teller": "企鹅有声",
+        "ren": 103,
+        "img": "https://wfqqreader-1252317822.image.myqcloud.com/cover/865/172865/t6_172865.jpg"
+      }
+    ]
+  },
+  {
+    "name": "免费榜",
+    "conList": [
+      {
+        "name": "龙婿",
+        "zuoze": "暖秋",
+        "teller": "6月小说",
+        "ren": 40,
+        "img": "https://wfqqreader-1252317822.image.myqcloud.com/cover/587/34564587/t6_34564587.jpg"
+      },
+      {
+        "name": "闪婚急诊，唐医生",
+        "zuoze": "清浅璐",
+        "teller": "陕西书海",
+        "ren": 40,
+        "img": "https://wfqqreader-1252317822.image.myqcloud.com/cover/880/27615880/t6_27615880.jpg"
+      },
+      {
+        "name": "龙纹战神",
+        "zuoze": "苏月夕",
+        "teller": "咪咕听书",
+        "ren": 40,
+        "img": "https://wfqqreader-1252317822.image.myqcloud.com/cover/699/666699/t6_666699.jpg"
+      }
+    ]
+  },
+  {
+    "name": "古言穿越榜",
+    "conList": [
+      {
+        "name": "庆余年",
+        "zuoze": "猫腻",
+        "teller": "阅文听书",
+        "ren": 358,
+        "img": "https://wfqqreader-1252317822.image.myqcloud.com/cover/592/462592/t6_462592.jpg"
+      },
+      {
+        "name": "庶女攻略（《锦心似玉》原著）",
+        "zuoze": "吱吱",
+        "teller": "文若书声",
+        "ren": 67,
+        "img": "https://wfqqreader-1252317822.image.myqcloud.com/cover/18/474018/t6_474018.jpg"
+      },
+      {
+        "name": "嫡谋",
+        "zuoze": "面北眉南",
+        "teller": "文若书声",
+        "ren": 40,
+        "img": "https://wfqqreader-1252317822.image.myqcloud.com/cover/355/492355/t6_492355.jpg"
+      }
+    ]
+  },
+  {
+    "name": "玄幻灵异榜",
+    "conList": [
+      {
+        "name": "斗破苍穹",
+        "zuoze": "天蚕土豆",
+        "teller": "文若书声",
+        "ren": 772,
+        "img": "https://wfqqreader-1252317822.image.myqcloud.com/cover/914/468914/t6_468914.jpg"
+      },
+      {
+        "name": "校花的贴身高手",
+        "zuoze": "鱼人二代",
+        "teller": "文若书声",
+        "ren": 642,
+        "img": "https://wfqqreader-1252317822.image.myqcloud.com/cover/232/479232/t6_479232.jpg"
+      },
+      {
+        "name": "斗罗大陆||绝世唐门",
+        "zuoze": "唐家三少",
+        "teller": "文若书声",
+        "ren": 186,
+        "img": "https://wfqqreader-1252317822.image.myqcloud.com/cover/368/462368/t6_462368.jpg"
+      }
+    ]
+  },
+  {
+    "name": "科幻悬疑榜",
+    "conList": [
+      {
+        "name": "民调局异闻录之勉传",
+        "zuoze": "耳东水寿",
+        "teller": "文若书声",
+        "ren": 227,
+        "img": "https://wfqqreader-1252317822.image.myqcloud.com/cover/918/819918/t6_819918.jpg"
+      },
+      {
+        "name": "苗疆蛊事（全16册）",
+        "zuoze": "南无袈裟理科佛",
+        "teller": "骤雨惊弦",
+        "ren": 6,
+        "img": "https://wfqqreader-1252317822.image.myqcloud.com/cover/852/216852/t6_216852.jpg"
+      },
+      {
+        "name": "暗夜将至",
+        "zuoze": "耳东水寿",
+        "teller": "文若书声",
+        "ren": 3,
+        "img": "https://wfqqreader-1252317822.image.myqcloud.com/cover/523/816523/t6_816523.jpg"
+      }
+    ]
+  },
+  {
+    "name": "青春现言榜",
+    "conList": [
+      {
+        "name": "黄金瞳",
+        "zuoze": "打眼",
+        "teller": "文若书声",
+        "ren": 55,
+        "img": "https://wfqqreader-1252317822.image.myqcloud.com/cover/65/474065/t6_474065.jpg"
+      },
+      {
+        "name": "天才相师",
+        "zuoze": "打眼",
+        "teller": "企鹅有声",
+        "ren": 21,
+        "img": "https://wfqqreader-1252317822.image.myqcloud.com/cover/464/485464/t6_485464.jpg"
+      },
+      {
+        "name": "亿万老婆买一送一",
+        "zuoze": "安知晓",
+        "teller": "企鹅有声",
+        "ren": 4,
+        "img": "https://wfqqreader-1252317822.image.myqcloud.com/cover/309/131309/t6_131309.jpg"
+      }
+    ]
+  },
+  {
+    "name": "历史争霸榜",
+    "conList": [
+      {
+        "name": "凡人修仙传",
+        "zuoze": "忘语",
+        "teller": "阅文听书",
+        "ren": 545,
+        "img": "https://wfqqreader-1252317822.image.myqcloud.com/cover/30/465030/t6_465030.jpg"
+      },
+      {
+        "name": "全职高手",
+        "zuoze": "蝴蝶蓝",
+        "teller": "文若书声",
+        "ren": 164,
+        "img": "https://wfqqreader-1252317822.image.myqcloud.com/cover/670/478670/t6_478670.jpg"
+      },
+      {
+        "name": "仙逆",
+        "zuoze": "耳根",
+        "teller": "文若书声",
+        "ren": 101,
+        "img": "https://wfqqreader-1252317822.image.myqcloud.com/cover/498/469498/t6_469498.jpg"
+      }
+    ]
+  },
+  {
+    "name": "出版经典榜",
+    "conList": [
+      {
+        "name": "红楼梦",
+        "zuoze": "曹雪芹",
+        "teller": "李庆丰",
+        "ren": 169,
+        "img": "https://wfqqreader-1252317822.image.myqcloud.com/cover/606/316606/t6_316606.jpg"
+      },
+      {
+        "name": "白鹿原",
+        "zuoze": "陈忠实",
+        "teller": "华音传媒",
+        "ren": 98,
+        "img": "https://weread-1258476243.file.myqcloud.com/weread/cover/78/YueWen_812443/t6_YueWen_812443.jpg"
+      },
+      {
+        "name": "三国演义",
+        "zuoze": "罗贯中",
+        "teller": "李庆丰",
+        "ren": 63,
+        "img": "https://weread-1258476243.file.myqcloud.com/weread/cover/11/YueWen_139417/t6_YueWen_139417.jpg"
+      }
+    ]
+  },
+  {
+    "name": "签约讲师榜",
+    "conList": [
+      {
+        "name": "科学奇遇记|恐龙星球大作战",
+        "zuoze": "boobii",
+        "teller": "boobii波比",
+        "ren": 4,
+        "img": "https://weread-1258476243.file.myqcloud.com/outpic/752/3002146752.jpg"
+      },
+      {
+        "name": "中国王朝内争实录：宠位厮杀",
+        "zuoze": "张国庆 蒋玮",
+        "teller": "失控剧场",
+        "ren": 0,
+        "img": "https://wfqqreader-1252317822.image.myqcloud.com/cover/457/23021457/t6_23021457.jpg"
+      },
+      {
+        "name": "盐",
+        "zuoze": "孙频",
+        "teller": "联合读创",
+        "ren": 3,
+        "img": "https://weread-1258476243.file.myqcloud.com/weread/cover/30/YueWen_913320/t6_YueWen_913320.jpg"
+      }
+    ]
+  }
+]
